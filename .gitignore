@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+env/
+grafikler_*/
+*.png
+*.xlsx
+*.xls
+*.csv
+*.db
+*.sqlite
